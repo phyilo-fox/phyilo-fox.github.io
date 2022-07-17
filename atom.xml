@@ -1,46 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phyilo-fox.github.io/</id>
-    <title>云雾树洞</title>
-    <updated>2022-07-17T13:30:55.401Z</updated>
+    <title>云雾树屋</title>
+    <updated>2022-07-17T15:32:39.949Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://phyilo-fox.github.io/"/>
     <link rel="self" href="https://phyilo-fox.github.io/atom.xml"/>
-    <subtitle>Always be safe and sound</subtitle>
+    <subtitle>Always be safe and sound&lt;br/&gt;欢迎来到狐狸山雀&amp;番茄的奇幻树窝！</subtitle>
     <logo>https://phyilo-fox.github.io/images/avatar.png</logo>
     <icon>https://phyilo-fox.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2022, 云雾树洞</rights>
-    <entry>
-        <title type="html"><![CDATA[Markdown语法库]]></title>
-        <id>https://phyilo-fox.github.io/post/markdown-yu-fa-ku/</id>
-        <link href="https://phyilo-fox.github.io/post/markdown-yu-fa-ku/">
-        </link>
-        <updated>2022-07-17T04:50:27.000Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[衍生作品]]></title>
-        <id>https://phyilo-fox.github.io/post/yan-sheng-zuo-pin/</id>
-        <link href="https://phyilo-fox.github.io/post/yan-sheng-zuo-pin/">
-        </link>
-        <updated>2022-07-16T18:02:20.000Z</updated>
-    </entry>
+    <rights>All rights reserved 2022, 云雾树屋</rights>
     <entry>
         <title type="html"><![CDATA[许你一诺]]></title>
         <id>https://phyilo-fox.github.io/post/xuniyinuo/</id>
         <link href="https://phyilo-fox.github.io/post/xuniyinuo/">
         </link>
         <updated>2022-07-16T17:23:24.000Z</updated>
-        <summary type="html"><![CDATA[<p>爱在心头难开口的狗血故事！</p>
+        <summary type="html"><![CDATA[<center>爱在心头难开口的狗血！
 ]]></summary>
-        <content type="html"><![CDATA[<p>爱在心头难开口的狗血故事！</p>
+        <content type="html"><![CDATA[<center>爱在心头难开口的狗血！
 ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[皇子与骑士]]></title>
-        <id>https://phyilo-fox.github.io/post/huang-zi-yu-qi-shi/</id>
-        <link href="https://phyilo-fox.github.io/post/huang-zi-yu-qi-shi/">
+        <id>https://phyilo-fox.github.io/post/king&amp;knight/</id>
+        <link href="https://phyilo-fox.github.io/post/king&amp;knight/">
         </link>
         <updated>2022-07-16T17:02:21.000Z</updated>
+        <summary type="html"><![CDATA[<center>主与仆、中世纪的骑士、死与生的理由
+]]></summary>
+        <content type="html"><![CDATA[<center>主与仆、中世纪的骑士、死与生的理由
+]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[【图】Sarnga猫男-ff14]]></title>
@@ -48,18 +38,5 @@
         <link href="https://phyilo-fox.github.io/post/catboy/">
         </link>
         <updated>2022-07-16T15:31:33.000Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://phyilo-fox.github.io/post/hello-gridea/</id>
-        <link href="https://phyilo-fox.github.io/post/hello-gridea/">
-        </link>
-        <updated>2018-12-11T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
-]]></content>
     </entry>
 </feed>
