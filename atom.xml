@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phyilo-fox.github.io/</id>
     <title>云雾树窝</title>
-    <updated>2022-07-18T04:37:00.505Z</updated>
+    <updated>2022-07-18T05:04:44.274Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://phyilo-fox.github.io/"/>
     <link rel="self" href="https://phyilo-fox.github.io/atom.xml"/>
@@ -52,7 +52,7 @@
 <br/>
 <br/>主菜单说明
 <br/>主页→返回此页，按日期排序
-<br/> 索引→按作品名
+<br/> 索引→按作品搜索
 <br/> 标签→按tag搜索
 <br/> 时序→小图标列表
 <br/> 传送→发现更宽广的世界
@@ -78,7 +78,7 @@
 <br/>
 <br/>主菜单说明
 <br/>主页→返回此页，按日期排序
-<br/> 索引→按作品名
+<br/> 索引→按作品搜索
 <br/> 标签→按tag搜索
 <br/> 时序→小图标列表
 <br/> 传送→发现更宽广的世界
